@@ -17,6 +17,7 @@ void	swap_32(int *a)
 	((unsigned char *)a)[2] = b;
 }
 
+
 void	swap_16(short *a)
 {
 	unsigned char	b;
