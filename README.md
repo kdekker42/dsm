@@ -1,2 +1,2 @@
-Dissasembler that can translate bytecode into assembly code.
+Disassembler that can translate bytecode into assembly code.
 assembly code is interpreted by the game Corewar.
